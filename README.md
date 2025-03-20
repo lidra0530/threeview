@@ -1,37 +1,3 @@
-让我为你编写一份日历三日视图的培训文档。首先我需要了解当前项目的结构和已实现的功能。
-
-Ran tool
-让我查看项目的主要源代码目录结构：
-
-Ran tool
-
-Ran tool
-
-Ran tool
-
-Ran tool
-
-Ran tool
-
-Ran tool
-让我查看三日视图的主要代码文件：
-
-Read file: entry/src/main/ets/calendar/view/ThreeDayView.ets
-让我继续查看一些重要的组件和数据模型文件：
-
-Ran tool
-
-Read file: entry/src/main/ets/calendar/model/CalendarModel.ets
-
-Read file: entry/src/main/ets/calendar/model/ScheduleModel.ets
-
-Read file: entry/src/main/ets/calendar/utils/Constants.ets
-
-Read file: entry/src/main/ets/calendar/controller/ScrollController.ets
-
-Read file: entry/src/main/ets/calendar/controller/ScheduleController.ets
-根据我查看的代码，现在我可以为你编写一份日历三日视图的培训文档：
-
 # 日历三日视图实现文档
 
 ## 一、功能概述
